@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Learn ya [redacted]</title>
+    <title>Learn ya redacted</title>
     <link href="pain.css" rel="stylesheet">
 </head>
 <body>
@@ -18,10 +18,10 @@
         <a href="mida/home.html">Minecraft Datapacks</a>
     </div>
     <div class="content">
-        <h1>LEARN [Data Exunged]</h1>
+        <h1>LEARN <em>Data Exunged</em>em></h1>
         <br>
-        <p>Heya, Seeing as your here and not looking at the code you must have <em>forgotten</em> how to Program [Redacted] <strong>AGAIN</strong></p>
-        <p>Luckely you thought ahead and thus this website was born, to teach your dumb [Data Expunged] all over again, Its on the go too, aint that neat?</p>
+        <p>Heya, Seeing as your here and not looking at the code you must have <em>forgotten</em> how to Program <strong><em>Redacted</em> AGAIN</strong></p>
+        <p>Luckely you thought ahead and thus this website was born, to teach your dumb <strong><em>Data Expunged</em></strong> all over again, Its on the go too, aint that neat?</p>
         <p>So, <strong><em>What did you Forget?</em></strong></p>
     </div>
 </body>

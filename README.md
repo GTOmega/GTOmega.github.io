@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Learn ya redacted</title>
+    <title>Learn ya redacted </title>
     <link href="pain.css" rel="stylesheet">
 </head>
 <body>
